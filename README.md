@@ -32,3 +32,5 @@ Open [http://localhost:8000](http://localhost:8000) to view it in your browser.
 
 Or just.... simply run this script : )
 Open [http://localhost:8000](http://localhost:8000) to view it in your browser.
+
+#References = https://medium.com/t-t-software-solution/deploy-node-js-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-azure-app-service-plan-azure-container-registry-%E0%B9%81%E0%B8%A5%E0%B8%B0-github-action-460998dd805f
